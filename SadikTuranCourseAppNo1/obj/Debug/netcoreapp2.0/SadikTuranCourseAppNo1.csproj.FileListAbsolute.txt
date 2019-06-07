@@ -1,0 +1,11 @@
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\bin\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.deps.json
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\bin\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.runtimeconfig.json
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\bin\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.runtimeconfig.dev.json
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\bin\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.dll
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\bin\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.pdb
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.csprojResolveAssemblyReference.cache
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.csproj.CoreCompileInputs.cache
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.AssemblyInfoInputs.cache
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.AssemblyInfo.cs
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.dll
+c:\users\caan\source\repos\SadikTuranCourseAppNo1\SadikTuranCourseAppNo1\obj\Debug\netcoreapp2.0\SadikTuranCourseAppNo1.pdb
